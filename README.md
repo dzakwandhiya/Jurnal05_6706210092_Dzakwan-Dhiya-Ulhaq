@@ -1,1 +1,5 @@
-# Jurnal05_6706210092_Dzakwan-Dhiya-Ulhaq
+## Identitas
+
+Nama : Dzakwan Dhiya Ulhaq
+
+NIM : 6706210092
